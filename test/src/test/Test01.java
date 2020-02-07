@@ -7,6 +7,6 @@ public class Test01 {
 		//222222222222222222222222222
 		System.out.println("好好");
 		//111111111111111111111111111
-
+		System.out.println("hehe");
 	}
 }
